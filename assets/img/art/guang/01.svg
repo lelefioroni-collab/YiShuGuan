@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#1c1a19"/><stop offset="1" stop-color="#0d0c0c"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#8c9a8e" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#8c9a8e" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="158" y="1022" width="961" height="2" fill="#ffffff" opacity="0.101" transform="rotate(4.1 479 1022)"/>
+  <rect x="701" y="145" width="533" height="430" rx="22" fill="#ffffff" opacity="0.056" transform="rotate(-12.1 967 360)"/>
+  <rect x="217" y="750" width="400" height="364" rx="18" fill="#ffffff" opacity="0.037" transform="rotate(10.1 417 932)"/>
+  <rect x="376" y="965" width="681" height="2" fill="#8c9a8e" opacity="0.162" transform="rotate(-20.8 603 965)"/>
+  <text x="468" y="684" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.20" text-anchor="middle" dominant-baseline="central" transform="rotate(-13 600 600)">光</text>
+  <text x="720" y="528" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.15" text-anchor="middle" dominant-baseline="central" transform="rotate(10 600 600)">光</text>
+  <text x="600" y="600" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#f4f3ef" opacity="0.86" text-anchor="middle" dominant-baseline="central">光</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#8c9a8e" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">GUANG — Light</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">DETAIL 01 — 240 × 200 cm</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#16181c"/><stop offset="1" stop-color="#0a0b0d"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#c9a227" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#c9a227" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="166" y="551" width="1084" height="2" fill="#ffffff" opacity="0.116" transform="rotate(-16.9 528 551)"/>
+  <circle cx="238" cy="464" r="201" fill="#c9a227" opacity="0.085"/>
+  <rect x="794" y="489" width="639" height="337" rx="17" fill="#ffffff" opacity="0.077" transform="rotate(1.7 1113 657)"/>
+  <rect x="229" y="219" width="1034" height="2" fill="#ffffff" opacity="0.150" transform="rotate(-25.7 573 219)"/>
+  <text x="600" y="564" font-size="408" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600" fill="#f4f3ef" opacity="0.10" text-anchor="middle" dominant-baseline="central" letter-spacing="0.02em">ST</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#c9a227" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">SONG Tea — Brand Identity</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">IMAGE 02 — 2024</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

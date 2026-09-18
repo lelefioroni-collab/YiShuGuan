@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#1c1a19"/><stop offset="1" stop-color="#0d0c0c"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#8c9a8e" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#8c9a8e" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="428" y="442" width="306" height="234" rx="12" fill="#ffffff" opacity="0.063" transform="rotate(15.4 581 559)"/>
+  <rect x="751" y="853" width="545" height="480" rx="24" fill="#ffffff" opacity="0.058" transform="rotate(-17.7 1023 1093)"/>
+  <rect x="973" y="821" width="355" height="2" fill="#ffffff" opacity="0.131" transform="rotate(25.2 1091 821)"/>
+  <rect x="168" y="1023" width="683" height="486" rx="24" fill="#ffffff" opacity="0.039" transform="rotate(-16.4 509 1266)"/>
+  <text x="600" y="564" font-size="408" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600" fill="#f4f3ef" opacity="0.10" text-anchor="middle" dominant-baseline="central" letter-spacing="0.02em">OL</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#8c9a8e" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">ORA LED Beauty Device</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">IMAGE 02 — 2025</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

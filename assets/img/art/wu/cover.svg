@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#1a1a1d"/><stop offset="1" stop-color="#0c0c0e"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#d6482f" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#d6482f" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <circle cx="1109" cy="557" r="305" fill="#ffffff" opacity="0.070"/>
+  <rect x="820" y="928" width="466" height="301" rx="15" fill="#ffffff" opacity="0.095" transform="rotate(17.0 1053 1079)"/>
+  <rect x="-59" y="1132" width="888" height="2" fill="#ffffff" opacity="0.080" transform="rotate(13.4 237 1132)"/>
+  <rect x="107" y="302" width="380" height="277" rx="14" fill="#ffffff" opacity="0.047" transform="rotate(12.5 297 440)"/>
+  <text x="468" y="684" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.20" text-anchor="middle" dominant-baseline="central" transform="rotate(-13 600 600)">無</text>
+  <text x="720" y="528" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.15" text-anchor="middle" dominant-baseline="central" transform="rotate(10 600 600)">無</text>
+  <text x="600" y="600" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#f4f3ef" opacity="0.86" text-anchor="middle" dominant-baseline="central">無</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#d6482f" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">WU — Void</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">COVER — 2024</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

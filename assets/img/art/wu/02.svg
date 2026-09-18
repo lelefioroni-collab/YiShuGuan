@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#1a1a1d"/><stop offset="1" stop-color="#0c0c0e"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#d6482f" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#d6482f" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="954" y="792" width="738" height="479" rx="24" fill="#ffffff" opacity="0.061" transform="rotate(-16.0 1322 1032)"/>
+  <rect x="941" y="386" width="601" height="744" rx="30" fill="#ffffff" opacity="0.041" transform="rotate(4.4 1242 758)"/>
+  <rect x="811" y="8" width="301" height="521" rx="15" fill="#ffffff" opacity="0.059" transform="rotate(-4.1 962 269)"/>
+  <circle cx="259" cy="1032" r="120" fill="#d6482f" opacity="0.058"/>
+  <rect x="247" y="342" width="662" height="2" fill="#ffffff" opacity="0.070" transform="rotate(-2.0 468 342)"/>
+  <rect x="430" y="500" width="569" height="579" rx="28" fill="#ffffff" opacity="0.053" transform="rotate(-21.7 715 790)"/>
+  <rect x="464" y="162" width="534" height="676" rx="27" fill="#ffffff" opacity="0.044" transform="rotate(-23.9 731 500)"/>
+  <text x="468" y="684" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.20" text-anchor="middle" dominant-baseline="central" transform="rotate(-13 600 600)">無</text>
+  <text x="720" y="528" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.15" text-anchor="middle" dominant-baseline="central" transform="rotate(10 600 600)">無</text>
+  <text x="600" y="600" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#f4f3ef" opacity="0.86" text-anchor="middle" dominant-baseline="central">無</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#d6482f" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">WU — Void</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">DETAIL 02 — 180 × 180 cm</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

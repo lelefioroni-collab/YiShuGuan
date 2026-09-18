@@ -1,0 +1,144 @@
+{
+  "draft": true,
+
+  "brand": {
+    "zh": "意术观",
+    "latin": "YISHUGUAN STUDIO"
+  },
+
+  "hero": {
+    "image": "assets/img/hero.webp",
+    "alt_en": "Studio hero image",
+    "alt_zh": "工作室主视觉"
+  },
+
+  "artCategories": [
+    { "id": "painting",     "en": "Paintings",     "zh": "绘画" },
+    { "id": "installation", "en": "Installations", "zh": "装置艺术" },
+    { "id": "sculpture",    "en": "Sculptures",    "zh": "雕塑" }
+  ],
+
+  "nav": [
+    { "id": "home",      "href": "index.html",     "en": "Home",      "zh": "首页" },
+    { "id": "about",     "href": "about.html",     "en": "About",     "zh": "关于我们" },
+    { "id": "services",  "href": "services.html",  "en": "Services",  "zh": "服务" },
+    { "id": "portfolio", "href": "portfolio.html", "en": "Portfolio", "zh": "作品集" },
+    { "id": "art",       "href": "art.html",       "en": "Art",       "zh": "艺术" },
+    { "id": "contact",   "href": "contact.html",   "en": "Contact",   "zh": "联系" }
+  ],
+
+  "contact": {
+    "email": "hello@yishuguan.studio",
+    "phone": "+86 138 0000 0000",
+    "phone_raw": "+8613800000000",
+    "wechat": "yishuguan_studio",
+    "address_en": "Studio — Bao'an District, Shenzhen, China",
+    "address_zh": "工作室 — 中国深圳市宝安区",
+    "hours_en": "Mon–Fri, 10:00–19:00 CST",
+    "hours_zh": "周一至周五 10:00–19:00"
+  },
+
+  "social": [
+    { "label": "Instagram",     "handle": "@yishuguan.studio", "url": "https://instagram.com/" },
+    { "label": "小红书 RED",     "handle": "@意术观",           "url": "https://www.xiaohongshu.com/" },
+    { "label": "公众号 WeChat",  "handle": "意术观",            "url": "#" },
+    { "label": "抖音 Douyin",    "handle": "@yishuguan",        "url": "https://www.douyin.com/" },
+    { "label": "Behance",       "handle": "/yishuguan",        "url": "https://www.behance.net/" }
+  ],
+
+  "services": [
+    {
+      "id": "product-design",
+      "title": { "en": "Product Design", "zh": "产品设计" },
+      "desc": {
+        "en": "From first sketch to production-ready files. Industrial design, CMF direction, and photoreal 3D visuals built in Rhino and KeyShot — for consumer electronics, beauty devices, and lifestyle products.",
+        "zh": "从概念草图到可量产文件。工业设计、CMF 方向与照片级 3D 视觉，使用 Rhino 与 KeyShot 完成，服务消费电子、美容仪器与生活方式产品。"
+      },
+      "tags": [
+        { "en": "Industrial design", "zh": "工业设计" },
+        { "en": "CMF", "zh": "CMF 设计" },
+        { "en": "3D rendering", "zh": "3D 渲染" },
+        { "en": "Packaging", "zh": "包装" }
+      ],
+      "href": "portfolio.html?category=product-design",
+      "link_en": "See product work",
+      "link_zh": "查看产品作品"
+    },
+    {
+      "id": "graphic-design",
+      "title": { "en": "Graphic Design", "zh": "平面设计" },
+      "desc": {
+        "en": "Brand identity systems, key visuals, packaging and editorial layout — graphic language that holds up across print, e-commerce and social. Bilingual typography handled natively in Chinese and Latin scripts.",
+        "zh": "品牌视觉识别系统、主视觉、包装与版式设计。图形语言在印刷、电商与社交媒体上保持一致。中英文字体排印可原生处理。"
+      },
+      "tags": [
+        { "en": "Brand identity", "zh": "品牌识别" },
+        { "en": "Key visual", "zh": "主视觉 KV" },
+        { "en": "Packaging", "zh": "包装设计" },
+        { "en": "Editorial", "zh": "版式设计" }
+      ],
+      "href": "portfolio.html?category=graphic-design",
+      "link_en": "See graphic work",
+      "link_zh": "查看平面作品"
+    },
+    {
+      "id": "fashion-design",
+      "title": { "en": "Fashion Design", "zh": "服装设计" },
+      "desc": {
+        "en": "Apparel graphics, textile prints and seasonal capsule direction. Pattern work developed between Italian and Chinese visual traditions, produced with local sampling partners.",
+        "zh": "服装图形、面料印花与季度胶囊系列方向。图案设计融合意大利与中国视觉传统，并与本地打样供应链配合落地。"
+      },
+      "tags": [
+        { "en": "Textile print", "zh": "面料印花" },
+        { "en": "Apparel graphics", "zh": "服装图形" },
+        { "en": "Lookbook", "zh": "Lookbook" }
+      ],
+      "href": "portfolio.html?category=fashion-design",
+      "link_en": "See fashion work",
+      "link_zh": "查看服装作品"
+    },
+    {
+      "id": "aigc-video",
+      "title": { "en": "AIGC & Video Production", "zh": "AIGC 与视频制作" },
+      "desc": {
+        "en": "AI-generated imagery and video integrated into a real production pipeline — Midjourney, Stable Diffusion and ComfyUI for concepts and campaign visuals, then editing, grading and motion to finish.",
+        "zh": "将 AI 生成图像与视频接入真实生产流程。使用 Midjourney、Stable Diffusion、ComfyUI 生成概念与广告视觉，再完成剪辑、调色与动效。"
+      },
+      "tags": [
+        { "en": "AIGC imagery", "zh": "AIGC 图像" },
+        { "en": "ComfyUI workflows", "zh": "ComfyUI 工作流" },
+        { "en": "Video editing", "zh": "视频剪辑" },
+        { "en": "Motion", "zh": "动效" }
+      ],
+      "href": "portfolio.html?category=aigc-video",
+      "link_en": "See AIGC & video work",
+      "link_zh": "查看 AIGC 与视频作品"
+    },
+    {
+      "id": "art-consulting",
+      "title": { "en": "Art Consulting", "zh": "艺术顾问" },
+      "desc": {
+        "en": "Curation, commissioning and art acquisition for spaces, brands and collectors. We plan exhibitions, commission original work, and place contemporary Chinese painting in commercial and private environments.",
+        "zh": "为空间、品牌与藏家提供策展、委托创作与艺术收藏建议。我们策划展览、定制原创作品，并将当代绘画引入商业与私人空间。"
+      },
+      "tags": [
+        { "en": "Curation", "zh": "策展" },
+        { "en": "Commissions", "zh": "委托创作" },
+        { "en": "Art advisory", "zh": "收藏顾问" },
+        { "en": "Exhibition design", "zh": "展览设计" }
+      ],
+      "href": "art.html",
+      "link_en": "See the art practice",
+      "link_zh": "查看艺术实践"
+    }
+  ],
+
+  "footer": {
+    "headline_en": "A studio where European design thinking meets Chinese visual culture.",
+    "headline_zh": "让欧洲设计思维与中国视觉文化相遇的工作室。",
+    "sub_en": "Tell us about the project you have in mind — we answer every enquiry personally.",
+    "sub_zh": "告诉我们你的想法 — 每一封邮件我们都会亲自回复。",
+    "location_en": "Shenzhen, China",
+    "location_zh": "中国 深圳"
+  }
+}

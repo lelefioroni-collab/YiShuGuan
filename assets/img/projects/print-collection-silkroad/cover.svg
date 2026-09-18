@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#1b1618"/><stop offset="1" stop-color="#0d0a0b"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#a8553f" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#a8553f" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="-45" y="93" width="651" height="2" fill="#a8553f" opacity="0.158" transform="rotate(0.6 172 93)"/>
+  <rect x="289" y="236" width="697" height="848" rx="35" fill="#ffffff" opacity="0.087" transform="rotate(-10.0 637 660)"/>
+  <rect x="67" y="1024" width="569" height="249" rx="12" fill="#ffffff" opacity="0.090" transform="rotate(-12.3 352 1148)"/>
+  <rect x="813" y="177" width="432" height="2" fill="#a8553f" opacity="0.141" transform="rotate(-2.8 957 177)"/>
+  <rect x="443" y="944" width="358" height="2" fill="#ffffff" opacity="0.068" transform="rotate(-5.8 563 944)"/>
+  <rect x="765" y="1383" width="951" height="2" fill="#ffffff" opacity="0.166" transform="rotate(-13.0 1082 1383)"/>
+  <rect x="758" y="1011" width="599" height="375" rx="19" fill="#ffffff" opacity="0.040" transform="rotate(7.6 1057 1198)"/>
+  <text x="600" y="564" font-size="408" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600" fill="#f4f3ef" opacity="0.10" text-anchor="middle" dominant-baseline="central" letter-spacing="0.02em">SR</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#a8553f" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">Silk Road — Print Collection</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">COVER — FASHION-DESIGN</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

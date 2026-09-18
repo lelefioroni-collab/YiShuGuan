@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1400" width="2400" height="1400">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#1b1618"/><stop offset="1" stop-color="#0d0a0b"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#a8553f" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#a8553f" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="2400" height="1400" fill="url(#bg)"/>
+    <rect width="2400" height="1400" fill="url(#glow)"/>
+    <rect x="1834" y="182" width="1325" height="876" rx="44" fill="#ffffff" opacity="0.093" transform="rotate(25.8 2497 620)"/>
+  <circle cx="2255" cy="960" r="132" fill="#ffffff" opacity="0.050"/>
+  <rect x="974" y="182" width="1230" height="487" rx="24" fill="#ffffff" opacity="0.044" transform="rotate(-10.1 1589 426)"/>
+  <rect x="18" y="178" width="1289" height="699" rx="35" fill="#ffffff" opacity="0.039" transform="rotate(14.7 662 528)"/>
+  <rect x="960" y="901" width="1147" height="2" fill="#ffffff" opacity="0.069" transform="rotate(-2.1 1342 901)"/>
+  <text x="936" y="798" font-size="812" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.20" text-anchor="middle" dominant-baseline="central" transform="rotate(-13 1200 700)">意</text>
+  <text x="1440" y="616" font-size="812" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.15" text-anchor="middle" dominant-baseline="central" transform="rotate(10 1200 700)">意</text>
+  <text x="1200" y="700" font-size="812" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#f4f3ef" opacity="0.86" text-anchor="middle" dominant-baseline="central">意</text>
+  <line x1="63" y1="1236" x2="189" y2="1236" stroke="#a8553f" stroke-width="2"/>
+  <text x="63" y="1312" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="36" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">Studio hero image</text>
+  <text x="63" y="1365" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">REPLACE WITH YOUR BEST WIDE SHOT</text>
+  <text x="2337" y="99" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="28" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 2400×1400</text>
+  </svg>

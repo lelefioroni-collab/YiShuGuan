@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#141a1c"/><stop offset="1" stop-color="#090c0e"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#5b8ca8" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#5b8ca8" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="459" y="1053" width="1023" height="2" fill="#ffffff" opacity="0.131" transform="rotate(13.5 800 1053)"/>
+  <rect x="76" y="1163" width="656" height="2" fill="#ffffff" opacity="0.153" transform="rotate(12.7 294 1163)"/>
+  <rect x="7" y="337" width="203" height="676" rx="10" fill="#ffffff" opacity="0.097" transform="rotate(-22.0 108 675)"/>
+  <rect x="312" y="-114" width="233" height="848" rx="12" fill="#ffffff" opacity="0.089" transform="rotate(-13.5 429 310)"/>
+  <circle cx="506" cy="663" r="369" fill="#5b8ca8" opacity="0.054"/>
+  <rect x="597" y="1047" width="657" height="153" rx="8" fill="#ffffff" opacity="0.040" transform="rotate(19.6 925 1123)"/>
+  <rect x="32" y="581" width="307" height="556" rx="15" fill="#ffffff" opacity="0.089" transform="rotate(6.6 185 859)"/>
+  <text x="468" y="684" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.20" text-anchor="middle" dominant-baseline="central" transform="rotate(-13 600 600)">山</text>
+  <text x="720" y="528" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.15" text-anchor="middle" dominant-baseline="central" transform="rotate(10 600 600)">山</text>
+  <text x="600" y="600" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#f4f3ef" opacity="0.86" text-anchor="middle" dominant-baseline="central">山</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#5b8ca8" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">SHAN — Mountain</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">DETAIL 01 — 200 × 200 cm</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

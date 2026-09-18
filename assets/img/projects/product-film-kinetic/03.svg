@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#1a1a1d"/><stop offset="1" stop-color="#0c0c0e"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#d6482f" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#d6482f" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <circle cx="871" cy="963" r="158" fill="#ffffff" opacity="0.038"/>
+  <rect x="-29" y="283" width="492" height="282" rx="14" fill="#d6482f" opacity="0.081" transform="rotate(-25.3 217 424)"/>
+  <rect x="984" y="283" width="731" height="402" rx="20" fill="#ffffff" opacity="0.040" transform="rotate(-23.3 1350 484)"/>
+  <rect x="373" y="478" width="492" height="856" rx="25" fill="#ffffff" opacity="0.099" transform="rotate(20.7 619 906)"/>
+  <rect x="567" y="33" width="490" height="679" rx="24" fill="#ffffff" opacity="0.036" transform="rotate(16.1 812 372)"/>
+  <circle cx="490" cy="251" r="73" fill="#d6482f" opacity="0.054"/>
+  <text x="600" y="564" font-size="408" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600" fill="#f4f3ef" opacity="0.10" text-anchor="middle" dominant-baseline="central" letter-spacing="0.02em">K—</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#d6482f" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">KINETIC — Product Film</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">IMAGE 03 — 2025</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

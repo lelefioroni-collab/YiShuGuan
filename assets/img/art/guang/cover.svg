@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#171a16"/><stop offset="1" stop-color="#0b0d0a"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#9aa27b" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#9aa27b" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="672" y="846" width="199" height="763" rx="10" fill="#ffffff" opacity="0.077" transform="rotate(-7.1 771 1227)"/>
+  <rect x="302" y="654" width="722" height="783" rx="36" fill="#9aa27b" opacity="0.093" transform="rotate(25.6 663 1045)"/>
+  <rect x="139" y="16" width="444" height="338" rx="17" fill="#9aa27b" opacity="0.057" transform="rotate(-2.9 360 185)"/>
+  <rect x="450" y="786" width="656" height="731" rx="33" fill="#ffffff" opacity="0.052" transform="rotate(10.5 778 1151)"/>
+  <rect x="954" y="388" width="378" height="302" rx="15" fill="#9aa27b" opacity="0.093" transform="rotate(24.4 1143 538)"/>
+  <rect x="-93" y="279" width="374" height="582" rx="19" fill="#ffffff" opacity="0.066" transform="rotate(-5.6 94 570)"/>
+  <circle cx="566" cy="803" r="117" fill="#ffffff" opacity="0.075"/>
+  <text x="468" y="684" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.20" text-anchor="middle" dominant-baseline="central" transform="rotate(-13 600 600)">光</text>
+  <text x="720" y="528" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.15" text-anchor="middle" dominant-baseline="central" transform="rotate(10 600 600)">光</text>
+  <text x="600" y="600" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#f4f3ef" opacity="0.86" text-anchor="middle" dominant-baseline="central">光</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#9aa27b" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">GUANG — Light</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">COVER — 2025</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

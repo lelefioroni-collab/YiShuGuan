@@ -1,0 +1,352 @@
+[
+  {
+    "slug": "parabrezza-sunglasses",
+    "order": 10,
+    "category": "product-design",
+    "featured": true,
+    "title": {
+      "en": "Parabrezza SunGlasses",
+      "zh": "Parabrezza 墨镜"
+    },
+    "subtitle": {
+      "en": "Fashion SunGlasses",
+      "zh": "时尚墨镜"
+    },
+    "client": "ElectroMilan",
+    "scope": {
+      "en": "non so a cosa serve",
+      "zh": "我不知道怎么用"
+    },
+    "year": "2018",
+    "location": "",
+    "cover": "assets/img/projects/parabrezza-sunglasses/cover.webp",
+    "gallery": [
+      "assets/img/projects/parabrezza-sunglasses/cover.webp",
+      "assets/img/projects/parabrezza-sunglasses/01.webp",
+      "assets/img/projects/parabrezza-sunglasses/02.webp",
+      "assets/img/projects/parabrezza-sunglasses/03.webp"
+    ],
+    "body": {
+      "en": [
+        "Sculptural sunglasses inspired by the shape of a car windshield, with flat, angular lenses instead of the usual round or square shape. Frame is high grade acetate, the same plastic used in most quality eyewear. The front is finished with a row of red anodized metal studs on each side, and the temple arms are built from exposed red metal rods rather than solid plastic, revealing a wire structure where a normal arm would be solid. Black frame and red hardware form the core visual language: matte body, sharp red accents."
+      ],
+      "zh": [
+        "灵感来自汽车挡风玻璃形状的雕塑感太阳镜,镜片正面平整、棱角分明,区别于常见的圆形或方形镜片。镜框采用优质醋酸纤维塑料,即眼镜行业常用的高品质材质。镜框正面两侧各装饰一排红色阳极氧化金属铆钉,镜腿则以外露的红色金属杆结构取代传统实心塑料镜腿,在通常为实心的位置露出线条构造。黑色镜框与红色金属件构成整体视觉语言:哑光机身搭配锐利红色点缀。\"Parabrezza\"在意大利语中意为\"挡风玻璃\",呼应镜片平整、棱角分明的造型。"
+      ]
+    }
+  },
+  {
+    "slug": "beauty-device-ora",
+    "category": "product-design",
+    "featured": true,
+    "title": {
+      "en": "ORA LED Beauty Device",
+      "zh": "ORA 光疗美容仪"
+    },
+    "subtitle": {
+      "en": "Handheld LED therapy device — industrial design, CMF and launch visuals.",
+      "zh": "手持 LED 光疗仪 — 工业设计、CMF 与上市视觉。"
+    },
+    "client": "Beauty-tech brand, Shenzhen",
+    "scope": {
+      "en": "Industrial design / CMF / KeyShot rendering / Packaging",
+      "zh": "工业设计 / CMF / KeyShot 渲染 / 包装"
+    },
+    "year": "2025",
+    "location": "Shenzhen",
+    "cover": "assets/img/projects/beauty-device-ora/cover.svg",
+    "gallery": [
+      "assets/img/projects/beauty-device-ora/01.svg",
+      "assets/img/projects/beauty-device-ora/02.svg",
+      "assets/img/projects/beauty-device-ora/03.svg",
+      "assets/img/projects/beauty-device-ora/04.svg"
+    ],
+    "body": {
+      "en": [
+        "The brief asked for a device that felt like a personal care object rather than a clinical instrument. We started from the hand — grip diameter, thumb rest, the way the head tilts toward the face — and let the form follow that geometry instead of the electronics inside.",
+        "The resulting shell is a single soft-touch body with a thin metal band that doubles as the heat sink and the visual dividing line. Controls are reduced to one ring, so the interaction stays legible without a screen.",
+        "We delivered the industrial design, CMF direction, full KeyShot visual package for the launch campaign, and the retail packaging system."
+      ],
+      "zh": [
+        "客户希望这台设备更像一件个人护理用品，而不是临床仪器。我们从手出发 — 握持直径、拇指落点、灯头朝向面部的倾斜角度 — 让形态跟随这些几何关系，而不是跟随内部电路。",
+        "最终外壳是一体式软触机身，配一条细金属带，同时承担散热与视觉分割。控制被简化为一个旋环，无需屏幕也能清晰操作。",
+        "我们交付了工业设计、CMF 方向、用于上市传播的整套 KeyShot 视觉，以及零售包装系统。"
+      ]
+    },
+    "order": 20
+  },
+  {
+    "slug": "earbuds-nomad",
+    "category": "product-design",
+    "featured": true,
+    "title": {
+      "en": "NOMAD TWS Earbuds Concept",
+      "zh": "NOMAD 真无线耳机概念设计"
+    },
+    "subtitle": {
+      "en": "A concept study on transparency, weight and the gesture of opening.",
+      "zh": "关于透明、重量与开启动作的概念研究。"
+    },
+    "client": "Self-initiated concept",
+    "scope": {
+      "en": "Concept design / Prototype modelling / Rendering",
+      "zh": "概念设计 / 原型建模 / 渲染"
+    },
+    "year": "2025",
+    "location": "Shenzhen",
+    "cover": "assets/img/projects/earbuds-nomad/cover.svg",
+    "gallery": [
+      "assets/img/projects/earbuds-nomad/01.svg",
+      "assets/img/projects/earbuds-nomad/02.svg",
+      "assets/img/projects/earbuds-nomad/03.svg"
+    ],
+    "body": {
+      "en": [
+        "NOMAD is a self-initiated study into what a charging case could be if it were designed around the hand rather than around the battery. The lid pivots on a single offset axis, so opening it becomes a small, satisfying motion.",
+        "The case body is a translucent shell over a coloured internal frame, which lets the product show its own engineering instead of hiding it.",
+        "The study was modelled in Rhino and finished in KeyShot, with CMF explorations across eight colourways."
+      ],
+      "zh": [
+        "NOMAD 是一个自发研究项目：如果充电盒围绕手而不是围绕电池来设计，它会变成什么样子。盒盖围绕单一偏心轴旋转，开启变成一个轻微而愉快的动作。",
+        "盒体是半透明外壳包裹内部彩色框架，让产品展示自己的结构，而不是把它藏起来。",
+        "该项目在 Rhino 中建模，KeyShot 完成渲染，并探索了八种配色的 CMF 方案。"
+      ]
+    },
+    "order": 30
+  },
+  {
+    "slug": "tea-identity-song",
+    "category": "graphic-design",
+    "featured": true,
+    "title": {
+      "en": "SONG Tea — Brand Identity",
+      "zh": "宋茶 — 品牌视觉识别"
+    },
+    "subtitle": {
+      "en": "A bilingual identity system for a single-origin tea house.",
+      "zh": "为单一产地茶馆打造的中英双语视觉识别系统。"
+    },
+    "client": "SONG Tea House",
+    "scope": {
+      "en": "Identity / Bilingual typography / Packaging / Retail signage",
+      "zh": "品牌识别 / 中英排印 / 包装 / 门店物料"
+    },
+    "year": "2024",
+    "location": "Shenzhen",
+    "cover": "assets/img/projects/tea-identity-song/cover.svg",
+    "gallery": [
+      "assets/img/projects/tea-identity-song/01.svg",
+      "assets/img/projects/tea-identity-song/02.svg",
+      "assets/img/projects/tea-identity-song/03.svg"
+    ],
+    "body": {
+      "en": [
+        "The logotype is built from a Song-dynasty brush structure, then simplified until it survives being printed at 8mm on a tin lid. The Latin counterpart follows the same stroke weights rather than being set in a separate typeface.",
+        "Colour comes directly from the liquor of the four teas on offer, so the packaging palette is decided by the product itself.",
+        "The system covers tins, paper wraps, menus, retail signage and a bilingual editorial grid used across all printed matter."
+      ],
+      "zh": [
+        "标志字形取自宋代笔法结构，再逐步简化，直到它能在茶叶罐盖 8 毫米的尺度上依然成立。英文部分沿用同一笔重逻辑，而不是另选一款字体。",
+        "色彩直接来自四款茶汤的汤色，包装配色因此由产品本身决定。",
+        "系统涵盖茶叶罐、纸包、菜单、门店物料，以及贯穿所有印刷品的中英双语版式网格。"
+      ]
+    },
+    "order": 40
+  },
+  {
+    "slug": "porcelain-packaging",
+    "category": "graphic-design",
+    "featured": true,
+    "title": {
+      "en": "Porcelain Range — Packaging System",
+      "zh": "瓷器系列 — 包装系统"
+    },
+    "subtitle": {
+      "en": "A modular packaging family that scales across twelve SKUs.",
+      "zh": "可延展至十二个 SKU 的模块化包装家族。"
+    },
+    "client": "Homeware brand",
+    "scope": {
+      "en": "Packaging architecture / Art direction / Print production",
+      "zh": "包装架构 / 艺术指导 / 印刷品控"
+    },
+    "year": "2024",
+    "location": "Shenzhen / Jingdezhen",
+    "cover": "assets/img/projects/porcelain-packaging/cover.svg",
+    "gallery": [
+      "assets/img/projects/porcelain-packaging/01.svg",
+      "assets/img/projects/porcelain-packaging/02.svg",
+      "assets/img/projects/porcelain-packaging/03.svg"
+    ],
+    "body": {
+      "en": [
+        "Twelve products, four vessel types, one structural logic. The box locks into three heights using the same die-cut, which cut tooling costs by roughly half.",
+        "Surfaces are kept almost empty; a single hairline frame holds the product name, and a photographic band on the spine identifies the range at a glance on the shelf.",
+        "We art-directed the studio photography and supervised print on uncoated board with a soft-touch laminate."
+      ],
+      "zh": [
+        "十二款产品、四种器型、一套结构逻辑。同一刀模可通过折法形成三种高度，模具成本因此降低约一半。",
+        "包装表面几乎留空：一圈极细的线框承载品名，书脊上的一条摄影色带让系列在货架上一眼可辨。",
+        "我们负责棚拍艺术指导，并在非涂布纸配哑光覆膜上完成印制品控。"
+      ]
+    },
+    "order": 50
+  },
+  {
+    "slug": "print-collection-silkroad",
+    "category": "fashion-design",
+    "featured": true,
+    "title": {
+      "en": "Silk Road — Print Collection",
+      "zh": "丝路 — 印花系列"
+    },
+    "subtitle": {
+      "en": "A seasonal print capsule bridging Italian pattern and Chinese motif.",
+      "zh": "连接意大利图案语言与中国纹样的季节印花胶囊系列。"
+    },
+    "client": "Contemporary womenswear label",
+    "scope": {
+      "en": "Print design / Colour development / Lookbook direction",
+      "zh": "印花设计 / 色彩开发 / Lookbook 指导"
+    },
+    "year": "2023",
+    "location": "Shenzhen / Milan",
+    "cover": "assets/img/projects/print-collection-silkroad/cover.svg",
+    "gallery": [
+      "assets/img/projects/print-collection-silkroad/01.svg",
+      "assets/img/projects/print-collection-silkroad/02.svg",
+      "assets/img/projects/print-collection-silkroad/03.svg"
+    ],
+    "body": {
+      "en": [
+        "The collection starts from two vocabularies: the geometric repeat structures of Italian textile printing, and the asymmetric weighting of Chinese cloud and wave motifs. Each print is a negotiation between the two.",
+        "Patterns were developed as hand-painted repeats first, then redrawn digitally to keep the edge variation that makes printed textile feel alive.",
+        "Six prints, three colourways each, produced on silk twill and cotton poplin with local sampling partners."
+      ],
+      "zh": [
+        "系列从两套语汇出发：意大利纺织印花的几何循环结构，与中国云纹、水纹的不对称重心。每一款印花都是两者之间的协商。",
+        "图案先以手绘循环稿开发，再数字化重绘，以保留让印花布料显得有生命力的边缘变化。",
+        "共六款印花、每款三组配色，与本地打样伙伴合作完成于真丝斜纹与棉府绸上。"
+      ]
+    },
+    "order": 60
+  },
+  {
+    "slug": "aigc-campaign-lumen",
+    "category": "aigc-video",
+    "featured": true,
+    "title": {
+      "en": "LUMEN — AIGC Campaign Visuals",
+      "zh": "LUMEN — AIGC 广告视觉"
+    },
+    "subtitle": {
+      "en": "An AI-generated campaign world, art-directed frame by frame.",
+      "zh": "逐帧艺术指导的 AI 生成广告视觉世界。"
+    },
+    "client": "Skincare brand launch",
+    "scope": {
+      "en": "Art direction / ComfyUI pipelines / Retouching / Key visual",
+      "zh": "艺术指导 / ComfyUI 流程 / 精修 / 主视觉"
+    },
+    "year": "2025",
+    "location": "Shenzhen",
+    "cover": "assets/img/projects/aigc-campaign-lumen/cover.svg",
+    "gallery": [
+      "assets/img/projects/aigc-campaign-lumen/01.svg",
+      "assets/img/projects/aigc-campaign-lumen/02.svg",
+      "assets/img/projects/aigc-campaign-lumen/03.svg",
+      "assets/img/projects/aigc-campaign-lumen/04.svg"
+    ],
+    "body": {
+      "en": [
+        "A full campaign shot without a studio. The product is a real 3D model; everything around it — light, water, atmosphere — is generated and then composited, so the hero object stays physically accurate.",
+        "We built a reusable ComfyUI pipeline with locked seeds and control-net passes, which lets the brand generate new scene variations without losing consistency between images.",
+        "Deliverables: four key visuals, a short motion loop, and a documented workflow the in-house team can keep running."
+      ],
+      "zh": [
+        "整套广告视觉在没有摄影棚的情况下完成。产品是真实 3D 模型；围绕它的一切 — 光线、水、氛围 — 均为生成后合成，因此主体始终保持物理准确。",
+        "我们搭建了可复用的 ComfyUI 流程，锁定种子与控制网络通道，使品牌方可以在不牺牲画面一致性的前提下生成新的场景变体。",
+        "交付内容：四张主视觉、一条短动效循环，以及一套可交内部团队持续使用的工作流文档。"
+      ]
+    },
+    "order": 70
+  },
+  {
+    "slug": "product-film-kinetic",
+    "category": "aigc-video",
+    "featured": false,
+    "title": {
+      "en": "KINETIC — Product Film",
+      "zh": "KINETIC — 产品宣传片"
+    },
+    "subtitle": {
+      "en": "A 45-second product film built from 3D, AI plates and edit.",
+      "zh": "由 3D、AI 素材与剪辑构成的 45 秒产品片。"
+    },
+    "client": "Consumer electronics brand",
+    "scope": {
+      "en": "Storyboard / 3D / AI plates / Edit / Sound",
+      "zh": "分镜 / 3D / AI 素材 / 剪辑 / 声音"
+    },
+    "year": "2025",
+    "location": "Shenzhen",
+    "cover": "assets/img/projects/product-film-kinetic/cover.svg",
+    "gallery": [
+      "assets/img/projects/product-film-kinetic/01.svg",
+      "assets/img/projects/product-film-kinetic/02.svg",
+      "assets/img/projects/product-film-kinetic/03.svg"
+    ],
+    "body": {
+      "en": [
+        "The film moves from macro material detail to full product in one continuous camera path, so the viewer never loses the object's position in space.",
+        "Product sections were rendered in KeyShot and 3D; the impossible environments around them were generated with AIGC and re-graded to match the render lighting.",
+        "Delivered in 16:9, 9:16 and 1:1 for web, social and retail screen."
+      ],
+      "zh": [
+        "影片以一条连续的运动镜头从材质微距推到整机全景，观众因此始终不会丢失物体在空间中的位置感。",
+        "产品部分用 KeyShot 与 3D 渲染；周围那些现实中不存在的环境由 AIGC 生成，再调色以匹配渲染的光线。",
+        "交付 16:9、9:16 与 1:1 三种比例，适配官网、社交媒体与门店屏幕。"
+      ]
+    },
+    "order": 80
+  },
+  {
+    "slug": "exhibition-ink-structures",
+    "category": "art-consulting",
+    "featured": false,
+    "title": {
+      "en": "INK STRUCTURES — Exhibition Curation",
+      "zh": "墨的结构 — 展览策划"
+    },
+    "subtitle": {
+      "en": "Curating six painters around a single question of structure.",
+      "zh": "围绕同一个结构命题，策划六位画家的展览。"
+    },
+    "client": "Private gallery",
+    "scope": {
+      "en": "Curation / Spatial plan / Catalogue / Installation",
+      "zh": "策展 / 空间规划 / 画册 / 布展"
+    },
+    "year": "2024",
+    "location": "Shenzhen",
+    "cover": "assets/img/projects/exhibition-ink-structures/cover.svg",
+    "gallery": [
+      "assets/img/projects/exhibition-ink-structures/01.svg",
+      "assets/img/projects/exhibition-ink-structures/02.svg",
+      "assets/img/projects/exhibition-ink-structures/03.svg"
+    ],
+    "body": {
+      "en": [
+        "Six painters, one shared problem: how much structure a Chinese character can lose before it stops being a character. The hang moves from clearest to most dissolved, so the viewer walks the argument.",
+        "The spatial plan uses a single 40-metre wall with generous gaps; each work is given its own light and its own silence.",
+        "We produced the bilingual catalogue, the wall texts, and the installation plan, and managed the loan agreements."
+      ],
+      "zh": [
+        "六位画家，同一个问题：一个汉字能失去多少结构，才不再是一个汉字。展线从最清晰推进到最消解，观众因此是在走过这个论证过程。",
+        "空间方案使用一面 40 米长的墙，留出充足间隔；每件作品都获得独立的光线，与独立的安静。",
+        "我们制作了中英双语画册、墙面文字与布展方案，并负责借展协议的对接。"
+      ]
+    },
+    "order": 90
+  }
+]

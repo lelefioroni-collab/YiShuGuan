@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#16181c"/><stop offset="1" stop-color="#0a0b0d"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#c9a227" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#c9a227" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="272" y="416" width="788" height="2" fill="#ffffff" opacity="0.110" transform="rotate(-10.6 534 416)"/>
+  <rect x="179" y="701" width="787" height="2" fill="#ffffff" opacity="0.065" transform="rotate(-9.7 442 701)"/>
+  <circle cx="215" cy="308" r="111" fill="#c9a227" opacity="0.088"/>
+  <rect x="983" y="725" width="547" height="578" rx="27" fill="#c9a227" opacity="0.062" transform="rotate(18.1 1256 1015)"/>
+  <circle cx="11" cy="957" r="145" fill="#c9a227" opacity="0.086"/>
+  <rect x="363" y="-77" width="708" height="495" rx="25" fill="#ffffff" opacity="0.069" transform="rotate(6.3 717 170)"/>
+  <text x="600" y="564" font-size="408" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600" fill="#f4f3ef" opacity="0.10" text-anchor="middle" dominant-baseline="central" letter-spacing="0.02em">IS</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#c9a227" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">INK STRUCTURES — Exhibition Curation</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">IMAGE 03 — 2024</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

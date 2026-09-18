@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#1b1618"/><stop offset="1" stop-color="#0d0a0b"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#a8553f" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#a8553f" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="743" y="234" width="823" height="2" fill="#ffffff" opacity="0.137" transform="rotate(24.4 1018 234)"/>
+  <rect x="936" y="803" width="273" height="463" rx="14" fill="#a8553f" opacity="0.044" transform="rotate(-20.8 1072 1034)"/>
+  <rect x="298" y="923" width="345" height="206" rx="10" fill="#ffffff" opacity="0.040" transform="rotate(8.0 471 1026)"/>
+  <rect x="-136" y="592" width="360" height="532" rx="18" fill="#ffffff" opacity="0.042" transform="rotate(-6.0 44 858)"/>
+  <rect x="713" y="848" width="286" height="145" rx="7" fill="#a8553f" opacity="0.091" transform="rotate(-13.8 856 921)"/>
+  <rect x="454" y="698" width="342" height="769" rx="17" fill="#ffffff" opacity="0.062" transform="rotate(19.2 625 1083)"/>
+  <rect x="910" y="127" width="733" height="410" rx="21" fill="#ffffff" opacity="0.068" transform="rotate(24.2 1277 332)"/>
+  <text x="600" y="564" font-size="408" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600" fill="#f4f3ef" opacity="0.10" text-anchor="middle" dominant-baseline="central" letter-spacing="0.02em">OL</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#a8553f" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">ORA LED Beauty Device</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">IMAGE 03 — 2025</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

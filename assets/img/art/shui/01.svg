@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#171a16"/><stop offset="1" stop-color="#0b0d0a"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#9aa27b" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#9aa27b" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="684" y="494" width="477" height="774" rx="24" fill="#ffffff" opacity="0.039" transform="rotate(11.9 923 881)"/>
+  <rect x="638" y="-85" width="499" height="482" rx="24" fill="#ffffff" opacity="0.100" transform="rotate(-19.6 887 156)"/>
+  <rect x="64" y="667" width="707" height="350" rx="18" fill="#ffffff" opacity="0.062" transform="rotate(10.5 417 842)"/>
+  <circle cx="843" cy="831" r="214" fill="#9aa27b" opacity="0.075"/>
+  <rect x="334" y="314" width="659" height="426" rx="21" fill="#9aa27b" opacity="0.065" transform="rotate(-9.1 664 527)"/>
+  <rect x="658" y="397" width="355" height="284" rx="14" fill="#ffffff" opacity="0.098" transform="rotate(1.5 835 539)"/>
+  <text x="468" y="684" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.20" text-anchor="middle" dominant-baseline="central" transform="rotate(-13 600 600)">水</text>
+  <text x="720" y="528" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.15" text-anchor="middle" dominant-baseline="central" transform="rotate(10 600 600)">水</text>
+  <text x="600" y="600" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#f4f3ef" opacity="0.86" text-anchor="middle" dominant-baseline="central">水</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#9aa27b" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">SHUI — Water</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">DETAIL 01 — 160 × 160 cm</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" width="900" height="1125">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#1c1a19"/><stop offset="1" stop-color="#0d0c0c"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#8c9a8e" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#8c9a8e" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="900" height="1125" fill="url(#bg)"/>
+    <rect width="900" height="1125" fill="url(#glow)"/>
+    <rect x="163" y="381" width="419" height="300" rx="15" fill="#8c9a8e" opacity="0.052" transform="rotate(-18.2 373 531)"/>
+  <rect x="100" y="155" width="363" height="207" rx="10" fill="#ffffff" opacity="0.036" transform="rotate(3.6 282 259)"/>
+  <rect x="-47" y="766" width="313" height="360" rx="16" fill="#ffffff" opacity="0.095" transform="rotate(11.9 109 946)"/>
+  <circle cx="307" cy="578" r="137" fill="#ffffff" opacity="0.088"/>
+  <line x1="40" y1="1021" x2="121" y2="1021" stroke="#8c9a8e" stroke-width="2"/>
+  <text x="40" y="1069" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="23" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">Portrait 1</text>
+  <text x="40" y="1103" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">FOUNDER — REPLACE WITH PHOTO</text>
+  <text x="860" y="63" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 900×1125</text>
+  </svg>

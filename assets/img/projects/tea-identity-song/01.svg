@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#171a16"/><stop offset="1" stop-color="#0b0d0a"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#9aa27b" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#9aa27b" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <circle cx="1160" cy="1258" r="350" fill="#9aa27b" opacity="0.071"/>
+  <rect x="315" y="610" width="448" height="2" fill="#9aa27b" opacity="0.090" transform="rotate(-4.3 464 610)"/>
+  <rect x="324" y="1055" width="696" height="250" rx="13" fill="#9aa27b" opacity="0.098" transform="rotate(-24.0 672 1181)"/>
+  <rect x="893" y="674" width="639" height="777" rx="32" fill="#ffffff" opacity="0.057" transform="rotate(-12.5 1212 1062)"/>
+  <rect x="114" y="662" width="605" height="387" rx="19" fill="#ffffff" opacity="0.068" transform="rotate(-8.7 416 855)"/>
+  <rect x="-112" y="605" width="558" height="823" rx="28" fill="#ffffff" opacity="0.054" transform="rotate(-9.5 167 1017)"/>
+  <text x="600" y="564" font-size="408" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600" fill="#f4f3ef" opacity="0.10" text-anchor="middle" dominant-baseline="central" letter-spacing="0.02em">ST</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#9aa27b" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">SONG Tea — Brand Identity</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">IMAGE 01 — 2024</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

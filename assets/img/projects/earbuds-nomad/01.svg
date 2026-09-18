@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#1c1a19"/><stop offset="1" stop-color="#0d0c0c"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#8c9a8e" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#8c9a8e" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="485" y="732" width="492" height="750" rx="25" fill="#ffffff" opacity="0.066" transform="rotate(-10.0 731 1107)"/>
+  <rect x="707" y="1001" width="641" height="2" fill="#ffffff" opacity="0.101" transform="rotate(9.1 921 1001)"/>
+  <circle cx="1306" cy="131" r="118" fill="#8c9a8e" opacity="0.095"/>
+  <rect x="600" y="842" width="781" height="2" fill="#8c9a8e" opacity="0.164" transform="rotate(7.3 860 842)"/>
+  <circle cx="1232" cy="243" r="103" fill="#ffffff" opacity="0.071"/>
+  <rect x="463" y="879" width="209" height="700" rx="10" fill="#ffffff" opacity="0.061" transform="rotate(-25.8 568 1229)"/>
+  <text x="600" y="564" font-size="408" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600" fill="#f4f3ef" opacity="0.10" text-anchor="middle" dominant-baseline="central" letter-spacing="0.02em">NT</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#8c9a8e" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">NOMAD TWS Earbuds Concept</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">IMAGE 01 — 2025</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>

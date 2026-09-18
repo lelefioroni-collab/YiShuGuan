@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+        <stop offset="0" stop-color="#1c1a19"/><stop offset="1" stop-color="#0d0c0c"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.5" cy="0.42" r="0.72">
+        <stop offset="0" stop-color="#8c9a8e" stop-opacity="0.20"/>
+        <stop offset="1" stop-color="#8c9a8e" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect width="1200" height="1200" fill="url(#bg)"/>
+    <rect width="1200" height="1200" fill="url(#glow)"/>
+    <rect x="598" y="716" width="489" height="502" rx="24" fill="#ffffff" opacity="0.050" transform="rotate(14.5 842 967)"/>
+  <circle cx="467" cy="73" r="76" fill="#ffffff" opacity="0.047"/>
+  <rect x="931" y="454" width="598" height="2" fill="#ffffff" opacity="0.117" transform="rotate(20.0 1131 454)"/>
+  <rect x="995" y="260" width="410" height="562" rx="20" fill="#ffffff" opacity="0.057" transform="rotate(13.4 1200 541)"/>
+  <rect x="-12" y="544" width="237" height="591" rx="12" fill="#ffffff" opacity="0.073" transform="rotate(-12.7 107 839)"/>
+  <rect x="809" y="1037" width="1070" height="2" fill="#ffffff" opacity="0.166" transform="rotate(-9.8 1166 1037)"/>
+  <rect x="962" y="633" width="846" height="2" fill="#8c9a8e" opacity="0.168" transform="rotate(-25.6 1244 633)"/>
+  <text x="468" y="684" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.20" text-anchor="middle" dominant-baseline="central" transform="rotate(-13 600 600)">水</text>
+  <text x="720" y="528" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#ffffff" opacity="0.15" text-anchor="middle" dominant-baseline="central" transform="rotate(10 600 600)">水</text>
+  <text x="600" y="600" font-size="696" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Microsoft YaHei, sans-serif" fill="#f4f3ef" opacity="0.86" text-anchor="middle" dominant-baseline="central">水</text>
+  <line x1="54" y1="1060" x2="162" y2="1060" stroke="#8c9a8e" stroke-width="2"/>
+  <text x="54" y="1124" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" fill="#f4f3ef" opacity="0.82" letter-spacing="0.06em">SHUI — Water</text>
+  <text x="54" y="1170" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#f4f3ef" opacity="0.42" letter-spacing="0.16em">DETAIL 02 — 160 × 160 cm</text>
+  <text x="1146" y="85" font-family="Inter, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" fill="#f4f3ef" opacity="0.32" text-anchor="end" letter-spacing="0.18em">PLACEHOLDER 1200×1200</text>
+  </svg>
